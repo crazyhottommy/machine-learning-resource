@@ -9,3 +9,5 @@
 
 * [Getting started with deep learning in R](https://blogs.rstudio.com/tensorflow/posts/2018-09-07-getting-started/) blog post from Rstudio.  
 * [deep learning biology](https://github.com/hussius/deeplearning-biology)
+* [Bayesian deep learning for single-cell analysis](https://www.nature.com/articles/s41592-018-0230-9)
+* [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5)
