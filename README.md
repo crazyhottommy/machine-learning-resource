@@ -7,5 +7,5 @@
 
 ### deep learning
 
-[Getting started with deep learning in R](https://blogs.rstudio.com/tensorflow/posts/2018-09-07-getting-started/) blog post from Rstudio.
-[deep learning biology](https://github.com/hussius/deeplearning-biology)
+* [Getting started with deep learning in R](https://blogs.rstudio.com/tensorflow/posts/2018-09-07-getting-started/) blog post from Rstudio.  
+* [deep learning biology](https://github.com/hussius/deeplearning-biology)
