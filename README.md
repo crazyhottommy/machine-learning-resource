@@ -13,3 +13,4 @@
 * [Bayesian deep learning for single-cell analysis](https://www.nature.com/articles/s41592-018-0230-9)
 * [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5)
 * [Selene: a PyTorch-based deep learning library for biological sequence-level data](https://www.biorxiv.org/content/early/2018/12/14/438291)
+* [Dive into Deep Learning](http://en.diveintodeeplearning.org/) An interactive deep learning book for students, engineers, and researchers.
