@@ -17,3 +17,8 @@
 * [Dive into Deep Learning](http://en.diveintodeeplearning.org/) An interactive deep learning book for students, engineers, and researchers.
 * [SingleCellNet: a computational tool to classify single cell RNA-Seq data across platforms and across species](https://www.biorxiv.org/content/early/2018/12/31/508085)
 * [ONNX](http://onnx.ai/) is a open format to represent deep learning models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them. ONNX is developed and supported by a community of partners.
+
+### machine learning in medicine 
+* [A call for deep-learning healthcare](https://www.nature.com/articles/s41591-018-0320-3)
+* [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7)
+* [Privacy in the age of medical big data](https://www.nature.com/articles/s41591-018-0272-7)
