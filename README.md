@@ -5,6 +5,7 @@
 * [r2d3: A visual introduction to machine learning](http://www.r2d3.us/)
 * [Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities](https://arxiv.org/abs/1807.00123)
 * [parsnip](https://github.com/tidymodels/parsnip)A tidy unified interface to models https://tidymodels.github.io/parsnip/
+* [paper: A pitfall for machine learning methods aiming to predict across cell types](https://www.biorxiv.org/content/early/2019/01/04/512434)
 
 ### deep learning
 
