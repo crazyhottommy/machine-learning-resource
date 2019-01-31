@@ -17,6 +17,7 @@
 * [Selene: a PyTorch-based deep learning library for biological sequence-level data](https://www.biorxiv.org/content/early/2018/12/14/438291)
 * [Janggu - Deep learning for Genomics](https://github.com/BIMSBbioinfo/janggu)
 * [Dive into Deep Learning](http://en.diveintodeeplearning.org/) An interactive deep learning book for students, engineers, and researchers.
+* [Using Nucleus and TensorFlow for DNA Sequencing Error Correction](https://medium.com/tensorflow/using-nucleus-and-tensorflow-for-dna-sequencing-error-correction-47f3f7fc1a50) [tutorial](https://colab.research.google.com/github/google/nucleus/blob/master/nucleus/examples/dna_sequencing_error_correction.ipynb)
 * [SingleCellNet: a computational tool to classify single cell RNA-Seq data across platforms and across species](https://www.biorxiv.org/content/early/2018/12/31/508085)
 * [ONNX](http://onnx.ai/) is a open format to represent deep learning models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them. ONNX is developed and supported by a community of partners.
 
