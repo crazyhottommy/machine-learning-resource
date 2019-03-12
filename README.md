@@ -11,6 +11,7 @@
 ### deep learning
 
 * [Practical Deep Learning for Coders, 2019 edition](https://course.fast.ai/) course by fast.ai
+* [Examples of using deep learning in Bioinformatics](https://github.com/lykaust15/Deep_learning_examples)
 * [Getting started with deep learning in R](https://blogs.rstudio.com/tensorflow/posts/2018-09-07-getting-started/) blog post from Rstudio.  
 * [deep learning biology](https://github.com/hussius/deeplearning-biology)
 * [Bayesian deep learning for single-cell analysis](https://www.nature.com/articles/s41592-018-0230-9)
