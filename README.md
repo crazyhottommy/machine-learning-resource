@@ -22,6 +22,7 @@
 * [Using Nucleus and TensorFlow for DNA Sequencing Error Correction](https://medium.com/tensorflow/using-nucleus-and-tensorflow-for-dna-sequencing-error-correction-47f3f7fc1a50) [tutorial](https://colab.research.google.com/github/google/nucleus/blob/master/nucleus/examples/dna_sequencing_error_correction.ipynb)
 * [SingleCellNet: a computational tool to classify single cell RNA-Seq data across platforms and across species](https://www.biorxiv.org/content/early/2018/12/31/508085)
 * [ONNX](http://onnx.ai/) is a open format to represent deep learning models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them. ONNX is developed and supported by a community of partners.
+* [Scalable analysis of cell-type composition from single-cell transcriptomics using deep recurrent learning](https://www.nature.com/articles/s41592-019-0353-7) We present scScope, a scalable deep-learning-based approach that can accurately and rapidly identify cell-type composition from millions of noisy single-cell gene-expression profiles.
 
 ### machine learning in medicine 
 * [A call for deep-learning healthcare](https://www.nature.com/articles/s41591-018-0320-3)
