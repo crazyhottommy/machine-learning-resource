@@ -29,3 +29,4 @@
 * [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7)
 * [Privacy in the age of medical big data](https://www.nature.com/articles/s41591-018-0272-7)
 * [Automated identification of Cell Types in Single Cell RNA Sequencing](https://www.biorxiv.org/content/10.1101/532093v1)
+* [Deep learning: new computational modelling techniques for genomics](https://www.nature.com/articles/s41576-019-0122-6)
