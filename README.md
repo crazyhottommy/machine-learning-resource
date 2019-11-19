@@ -11,6 +11,7 @@
 
 ### deep learning
 
+* [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/) A blog post. see how linear algebra is playing here!
 * [Practical Deep Learning for Coders, 2019 edition](https://course.fast.ai/) course by fast.ai
 * [Examples of using deep learning in Bioinformatics](https://github.com/lykaust15/Deep_learning_examples)
 * [Getting started with deep learning in R](https://blogs.rstudio.com/tensorflow/posts/2018-09-07-getting-started/) blog post from Rstudio.  
