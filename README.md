@@ -1,5 +1,7 @@
 # machine-learning-resource
 
+* [supervised machine learning case study in R](https://supervised-ml-course.netlify.com/) A Free, Interactive Course Using Tidy Tools
+* [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
 * [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
 * [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 * [Practical Deep Learning For Coders from fast ai](http://course.fast.ai/) 
