@@ -1,5 +1,6 @@
 # machine-learning-resource
 
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) A free online book by Michael Nielsen.
 * [supervised machine learning case study in R](https://supervised-ml-course.netlify.com/) A Free, Interactive Course Using Tidy Tools
 * [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
 * [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
