@@ -14,6 +14,8 @@
 
 ### deep learning
 
+
+* [Opportunities and obstacles for deep learning in biology and medicine: 2019 update](https://greenelab.github.io/deep-review/)
 * [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/) A blog post. see how linear algebra is playing here!
 * [Practical Deep Learning for Coders, 2019 edition](https://course.fast.ai/) course by fast.ai
 * [Examples of using deep learning in Bioinformatics](https://github.com/lykaust15/Deep_learning_examples)
