@@ -31,7 +31,8 @@
 * [ONNX](http://onnx.ai/) is a open format to represent deep learning models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them. ONNX is developed and supported by a community of partners.
 * [Scalable analysis of cell-type composition from single-cell transcriptomics using deep recurrent learning](https://www.nature.com/articles/s41592-019-0353-7) We present scScope, a scalable deep-learning-based approach that can accurately and rapidly identify cell-type composition from millions of noisy single-cell gene-expression profiles.
 
-### machine learning in medicine 
+### machine learning in life science
+* [A book Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More](https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy/dp/1492039837)
 * [A call for deep-learning healthcare](https://www.nature.com/articles/s41591-018-0320-3)
 * [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7)
 * [Privacy in the age of medical big data](https://www.nature.com/articles/s41591-018-0272-7)
