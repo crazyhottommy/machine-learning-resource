@@ -11,10 +11,11 @@
 * [parsnip](https://github.com/tidymodels/parsnip)A tidy unified interface to models https://tidymodels.github.io/parsnip/
 * Descriptive mAchine Learning EXplanations: [DALEX](https://pbiecek.github.io/DALEX/)
 * [paper: A pitfall for machine learning methods aiming to predict across cell types](https://www.biorxiv.org/content/early/2019/01/04/512434)
+* [machine learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/) MIT OCW
 
 ### deep learning
 
-
+* http://introtodeeplearning.com/ MIT course
 * [Opportunities and obstacles for deep learning in biology and medicine: 2019 update](https://greenelab.github.io/deep-review/)
 * [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/) A blog post. see how linear algebra is playing here!
 * [Practical Deep Learning for Coders, 2019 edition](https://course.fast.ai/) course by fast.ai
