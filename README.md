@@ -1,5 +1,6 @@
 # machine-learning-resource
 
+* [Avoiding common pitfalls in machine learning omic data science](https://www.nature.com/articles/s41563-018-0241-z). see PDF in the repo.
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) A free online book by Michael Nielsen.
 * [supervised machine learning case study in R](https://supervised-ml-course.netlify.com/) A Free, Interactive Course Using Tidy Tools
 * [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
