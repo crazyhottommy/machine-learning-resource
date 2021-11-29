@@ -34,6 +34,7 @@
 * [SingleCellNet: a computational tool to classify single cell RNA-Seq data across platforms and across species](https://www.biorxiv.org/content/early/2018/12/31/508085)
 * [ONNX](http://onnx.ai/) is a open format to represent deep learning models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them. ONNX is developed and supported by a community of partners.
 * [Scalable analysis of cell-type composition from single-cell transcriptomics using deep recurrent learning](https://www.nature.com/articles/s41592-019-0353-7) We present scScope, a scalable deep-learning-based approach that can accurately and rapidly identify cell-type composition from millions of noisy single-cell gene-expression profiles.
+* [Deep learning applications in single-cell omics data analysis](https://www.biorxiv.org/content/10.1101/2021.11.26.470166v1) " Through a systematic literature review, we have found that DL has not yet revolutionized or addressed the most pressing challenges of the SC omics field. However, using DL models for single-cell omics has shown promising results (in many cases outperforming the previous state-of-the-art models) but lacking the needed biological interpretability in many cases."
 
 ### machine learning in life science
 * [A book Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More](https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy/dp/1492039837)
