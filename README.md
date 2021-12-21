@@ -2,6 +2,7 @@
 
 * [Avoiding common pitfalls in machine learning omic data science](https://www.nature.com/articles/s41563-018-0241-z). see PDF in the repo.
 * [Navigating the pitfalls of applying machine learning in genomics](https://www.nature.com/articles/s41576-021-00434-9). Nature Review Genetics.
+* [A guide to machine learning for biologists](https://www.nature.com/articles/s41580-021-00407-0)
 * [paper: A pitfall for machine learning methods aiming to predict across cell types](https://www.biorxiv.org/content/early/2019/01/04/512434)
 * [Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities](https://arxiv.org/abs/1807.00123)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) A free online book by Michael Nielsen.
