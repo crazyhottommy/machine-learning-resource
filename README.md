@@ -40,6 +40,7 @@
 
 ### machine learning in life science
 * [A book Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More](https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy/dp/1492039837)
+* [Deep learning shapes single-cell data analysis](https://www.nature.com/articles/s41580-022-00466-x)
 * [A call for deep-learning healthcare](https://www.nature.com/articles/s41591-018-0320-3)
 * [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7)
 * [Privacy in the age of medical big data](https://www.nature.com/articles/s41591-018-0272-7)
