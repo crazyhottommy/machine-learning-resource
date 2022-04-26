@@ -15,6 +15,7 @@
 * [parsnip](https://github.com/tidymodels/parsnip)A tidy unified interface to models https://tidymodels.github.io/parsnip/
 * Descriptive mAchine Learning EXplanations: [DALEX](https://pbiecek.github.io/DALEX/)
 * [machine learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/) MIT OCW
+* [CS229: Machine Learning - The Summer Edition](https://cs229.stanford.edu/syllabus-summer2020.html) free course from Stanford.
 
 ### deep learning
 
