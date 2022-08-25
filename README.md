@@ -1,5 +1,7 @@
 # machine-learning-resource
 
+* https://vas3k.com/blog/machine_learning/
+* statquest https://app.learney.me/maps/StatQuest
 * [Avoiding common pitfalls in machine learning omic data science](https://www.nature.com/articles/s41563-018-0241-z). see PDF in the repo.
 * [Navigating the pitfalls of applying machine learning in genomics](https://www.nature.com/articles/s41576-021-00434-9). Nature Review Genetics.
 * [A guide to machine learning for biologists](https://www.nature.com/articles/s41580-021-00407-0)
