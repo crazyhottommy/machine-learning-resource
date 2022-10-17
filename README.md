@@ -53,3 +53,4 @@
 * [Deep learning: new computational modelling techniques for genomics](https://www.nature.com/articles/s41576-019-0122-6)
 * [immuneML: an ecosystem for machine learning analysis of adaptive immune receptor repertoires](https://www.biorxiv.org/content/10.1101/2021.03.08.433891v1)
 * [Machine learning for deciphering cell heterogeneity and gene regulation](https://www.nature.com/articles/s43588-021-00038-7)
+* [Gene expression based inference of cancer drug sensitivity](https://www.nature.com/articles/s41467-022-33291-z)
