@@ -3,6 +3,7 @@
 * https://vas3k.com/blog/machine_learning/
 * statquest https://app.learney.me/maps/StatQuest
 * [Avoiding common pitfalls in machine learning omic data science](https://www.nature.com/articles/s41563-018-0241-z). see PDF in the repo.
+* [Artificial intelligence for multimodal data integration in oncology](https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00441-X)
 * [Steps to avoid overuse and misuse of machine learning in clinical research](https://www.nature.com/articles/s41591-022-01961-6)
 * [Navigating the pitfalls of applying machine learning in genomics](https://www.nature.com/articles/s41576-021-00434-9). Nature Review Genetics.
 * [A guide to machine learning for biologists](https://www.nature.com/articles/s41580-021-00407-0)
