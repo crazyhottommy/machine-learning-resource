@@ -25,6 +25,7 @@
 
 * [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
 * [Dive into Deep Learning](https://d2l.ai/) A free interactive book. really nice!
+* [neuralnetworks and deeplearning](http://neuralnetworksanddeeplearning.com/) A free ebook
 * http://introtodeeplearning.com/ MIT course
 * [Opportunities and obstacles for deep learning in biology and medicine: 2019 update](https://greenelab.github.io/deep-review/)
 * [Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/) A blog post. see how linear algebra is playing here!
