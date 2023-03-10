@@ -1,5 +1,8 @@
 # machine-learning-resource
 
+### courses and tools
+
+* google machine learning free classes: https://developers.google.com/machine-learning
 * https://vas3k.com/blog/machine_learning/
 * statquest https://app.learney.me/maps/StatQuest
 * [Avoiding common pitfalls in machine learning omic data science](https://www.nature.com/articles/s41563-018-0241-z). see PDF in the repo.
