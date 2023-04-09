@@ -61,3 +61,7 @@
 * [Gene expression based inference of cancer drug sensitivity](https://www.nature.com/articles/s41467-022-33291-z)
 * [Learning the Drug-Target Interaction Lexicon](https://www.biorxiv.org/content/10.1101/2022.12.06.519374v1) accurately scan ~10 million drug-target pairs per minute
 * [AI in Drug Discovery 2022 - A Highly Opinionated Literature Review](http://practicalcheminformatics.blogspot.com/2023/01/ai-in-drug-discovery-2022-highly.html)
+
+### datasets for practising ML
+
+* [Genomic and transcriptomic analysis of checkpoint blockade response in advanced non-small cell lung cancer](https://www.nature.com/articles/s41588-023-01355-5#data-availability) https://zenodo.org/record/7625517#.ZDL9JOzMJsU
