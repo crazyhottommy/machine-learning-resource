@@ -1,11 +1,12 @@
 # machine-learning-resource
 
-### courses and tools
+### courses, tools and reviews
 
 * google machine learning free classes: https://developers.google.com/machine-learning
 * https://vas3k.com/blog/machine_learning/
 * statquest https://app.learney.me/maps/StatQuest
 * [Avoiding common pitfalls in machine learning omic data science](https://www.nature.com/articles/s41563-018-0241-z). see PDF in the repo.
+* [Incorporating Machine Learning into Established Bioinformatics Frameworks](https://www.cell.com/immunity/fulltext/S1074-7613(23)00129-2?)
 * [How to avoid machine learning pitfalls:a guide for academic researchers](https://arxiv.org/abs/2108.02497)
 * [Artificial intelligence for multimodal data integration in oncology](https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00441-X)
 * [Steps to avoid overuse and misuse of machine learning in clinical research](https://www.nature.com/articles/s41591-022-01961-6)
