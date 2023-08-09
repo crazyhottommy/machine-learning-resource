@@ -12,6 +12,7 @@
 * [Steps to avoid overuse and misuse of machine learning in clinical research](https://www.nature.com/articles/s41591-022-01961-6)
 * [Navigating the pitfalls of applying machine learning in genomics](https://www.nature.com/articles/s41576-021-00434-9). Nature Review Genetics.
 * [A guide to machine learning for biologists](https://www.nature.com/articles/s41580-021-00407-0)
+* [Deep learning for computational biology](https://www.embopress.org/doi/full/10.15252/msb.20156651)
 * [paper: A pitfall for machine learning methods aiming to predict across cell types](https://www.biorxiv.org/content/early/2019/01/04/512434)
 * [Machine Learning for Integrating Data in Biology and Medicine: Principles, Practice, and Opportunities](https://arxiv.org/abs/1807.00123)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) A free online book by Michael Nielsen.
