@@ -55,6 +55,8 @@
 
 ### machine learning in life science
 * [Uncovering expression signatures of synergistic drug responses via ensembles of explainable machine-learning models](https://www.nature.com/articles/s41551-023-01034-0)
+* [DeepAIR: A deep learning framework for effective integration of sequence and 3D structure to enable adaptive immune receptor analysis
+](https://www.science.org/doi/10.1126/sciadv.abo5128)
 * [A book Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More](https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy/dp/1492039837)
 * [Deep learning shapes single-cell data analysis](https://www.nature.com/articles/s41580-022-00466-x)
 * [A call for deep-learning healthcare](https://www.nature.com/articles/s41591-018-0320-3)
