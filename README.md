@@ -70,6 +70,12 @@
 * [Learning the Drug-Target Interaction Lexicon](https://www.biorxiv.org/content/10.1101/2022.12.06.519374v1) accurately scan ~10 million drug-target pairs per minute
 * [AI in Drug Discovery 2022 - A Highly Opinionated Literature Review](http://practicalcheminformatics.blogspot.com/2023/01/ai-in-drug-discovery-2022-highly.html)
 
+### deep learning for single-cell
+
+* [Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation”](https://www.biorxiv.org/content/10.1101/2023.08.30.555582v1) twitter thread to understand https://twitter.com/drklly/status/1698013780394041561
+* Single-cell gene expression prediction from DNA sequence at large contexts  https://www.biorxiv.org/content/10.1101/2023.07.26.550634v1.full
+* Transfer learning enables predictions in network biology https://pubmed.ncbi.nlm.nih.gov/37258680/
+  
 ### datasets for practising ML
 
 * [Genomic and transcriptomic analysis of checkpoint blockade response in advanced non-small cell lung cancer](https://www.nature.com/articles/s41588-023-01355-5#data-availability) https://zenodo.org/record/7625517#.ZDL9JOzMJsU
