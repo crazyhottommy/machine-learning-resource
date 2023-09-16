@@ -69,7 +69,8 @@
 * [Gene expression based inference of cancer drug sensitivity](https://www.nature.com/articles/s41467-022-33291-z)
 * [Learning the Drug-Target Interaction Lexicon](https://www.biorxiv.org/content/10.1101/2022.12.06.519374v1) accurately scan ~10 million drug-target pairs per minute
 * [AI in Drug Discovery 2022 - A Highly Opinionated Literature Review](http://practicalcheminformatics.blogspot.com/2023/01/ai-in-drug-discovery-2022-highly.html)
-
+* [CodonBERT: Large Language Models for mRNA design and optimization](https://www.biorxiv.org/content/10.1101/2023.09.09.556981v1)
+  
 ### deep learning for single-cell
 
 * [Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation”](https://www.biorxiv.org/content/10.1101/2023.08.30.555582v1) twitter thread to understand https://twitter.com/drklly/status/1698013780394041561
