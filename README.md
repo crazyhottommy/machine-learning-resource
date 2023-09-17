@@ -76,7 +76,8 @@
 * [Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation”](https://www.biorxiv.org/content/10.1101/2023.08.30.555582v1) twitter thread to understand https://twitter.com/drklly/status/1698013780394041561
 * Single-cell gene expression prediction from DNA sequence at large contexts  https://www.biorxiv.org/content/10.1101/2023.07.26.550634v1.full
 * Transfer learning enables predictions in network biology https://pubmed.ncbi.nlm.nih.gov/37258680/
+* [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1)
   
-### datasets for practising ML
+### datasets for practicing ML
 
 * [Genomic and transcriptomic analysis of checkpoint blockade response in advanced non-small cell lung cancer](https://www.nature.com/articles/s41588-023-01355-5#data-availability) https://zenodo.org/record/7625517#.ZDL9JOzMJsU
