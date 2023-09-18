@@ -77,7 +77,11 @@
 * Single-cell gene expression prediction from DNA sequence at large contexts  https://www.biorxiv.org/content/10.1101/2023.07.26.550634v1.full
 * Transfer learning enables predictions in network biology https://pubmed.ncbi.nlm.nih.gov/37258680/
 * [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1)
-  
+
+### Large language models (LMM)  
+
+[Training and fine-tuning large language models](https://www.borealisai.com/research-blogs/training-and-fine-tuning-large-language-models/)
+
 ### datasets for practicing ML
 
 * [Genomic and transcriptomic analysis of checkpoint blockade response in advanced non-small cell lung cancer](https://www.nature.com/articles/s41588-023-01355-5#data-availability) https://zenodo.org/record/7625517#.ZDL9JOzMJsU
