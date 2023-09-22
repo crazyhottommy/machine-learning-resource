@@ -31,6 +31,7 @@
 
 ### deep learning
 
+* [nice blog posts on deep NN](https://colah.github.io/)
 * [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 * [Dive into Deep Learning](https://d2l.ai/) A free interactive book. really nice!
