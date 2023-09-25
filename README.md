@@ -91,6 +91,8 @@
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 * [Graph Neural Net works](https://mbernste.github.io/posts/gcn/) a blog post by Matt B.
 * [DeepCCI: a deep learning framework for identifying cell-cell interactions from single-cell RNA sequencing data](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad596/7281356?login=false). It uses GNN.
+* [Bering: joint cell segmentation and annotation for spatial transcriptomics with transferred graph embeddings](https://www.biorxiv.org/content/10.1101/2023.09.19.558548v1)
+* [GOAT: Gene-level biomarker discovery from multi-Omics data using graph ATtention neural network for eosinophilic asthma subtype](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad582/7280697?login=false)
 
 ### datasets for practicing ML
 
