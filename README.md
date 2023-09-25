@@ -33,7 +33,6 @@
 
 * [nice blog posts on deep NN](https://colah.github.io/)
 * [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
-* [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 * [Dive into Deep Learning](https://d2l.ai/) A free interactive book. really nice!
 * [neuralnetworks and deeplearning](http://neuralnetworksanddeeplearning.com/) A free ebook
 * http://introtodeeplearning.com/ MIT course
@@ -78,10 +77,20 @@
 * Single-cell gene expression prediction from DNA sequence at large contexts  https://www.biorxiv.org/content/10.1101/2023.07.26.550634v1.full
 * Transfer learning enables predictions in network biology https://pubmed.ncbi.nlm.nih.gov/37258680/
 * [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1)
+* [CPA is a framework to learn the effects of perturbations at the single-cell level. CPA encodes and learns phenotypic drug responses across different cell types, doses, and combinations](https://github.com/theislab/cpa)
+* [GET: a foundation model of transcription across human cell types](https://www.biorxiv.org/content/10.1101/2023.09.24.559168v1)
 
 ### Large language models (LMM)  
 
-[Training and fine-tuning large language models](https://www.borealisai.com/research-blogs/training-and-fine-tuning-large-language-models/)
+* [A High-level Overview of Large Language Models](https://www.borealisai.com/research-blogs/a-high-level-overview-of-large-language-models/)
+* [Training and fine-tuning large language models](https://www.borealisai.com/research-blogs/training-and-fine-tuning-large-language-models/)
+* [A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU)
+
+### Graph Neural Nets (GNN)
+
+* [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+* [Graph Neural Net works](https://mbernste.github.io/posts/gcn/) a blog post by Matt B.
+* [DeepCCI: a deep learning framework for identifying cell-cell interactions from single-cell RNA sequencing data](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad596/7281356?login=false). It uses GNN.
 
 ### datasets for practicing ML
 
