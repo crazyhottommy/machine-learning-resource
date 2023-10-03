@@ -79,13 +79,15 @@
 * [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1)
 * [CPA is a framework to learn the effects of perturbations at the single-cell level. CPA encodes and learns phenotypic drug responses across different cell types, doses, and combinations](https://github.com/theislab/cpa)
 * [GET: a foundation model of transcription across human cell types](https://www.biorxiv.org/content/10.1101/2023.09.24.559168v1)
-
+* [Neural optimal transport predicts perturbation responses at the single-cell level](https://www.nature.com/articles/s41592-023-01968-y)
+  
 ### Large language models (LMM)  
 
 * [A High-level Overview of Large Language Models](https://www.borealisai.com/research-blogs/a-high-level-overview-of-large-language-models/)
 * [Training and fine-tuning large language models](https://www.borealisai.com/research-blogs/training-and-fine-tuning-large-language-models/)
 * [A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU)
-
+* [SaProt: Protein Language Modeling with Structure-aware Vocabulary](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2)
+  
 ### Graph Neural Nets (GNN)
 
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
