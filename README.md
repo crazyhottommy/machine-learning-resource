@@ -89,6 +89,8 @@
 * [A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [SaProt: Protein Language Modeling with Structure-aware Vocabulary](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2)
 * [ProteinBERT: a universal deep-learning model of protein sequence and function](https://academic.oup.com/bioinformatics/article/38/8/2102/6502274)
+* [Learning meaningful representations of protein sequences](https://www.nature.com/articles/s41467-022-29443-w)
+
 ### Graph Neural Nets (GNN)
 
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
