@@ -70,6 +70,7 @@
 * [Learning the Drug-Target Interaction Lexicon](https://www.biorxiv.org/content/10.1101/2022.12.06.519374v1) accurately scan ~10 million drug-target pairs per minute
 * [AI in Drug Discovery 2022 - A Highly Opinionated Literature Review](http://practicalcheminformatics.blogspot.com/2023/01/ai-in-drug-discovery-2022-highly.html)
 * [CodonBERT: Large Language Models for mRNA design and optimization](https://www.biorxiv.org/content/10.1101/2023.09.09.556981v1)
+* [How to represent a protein sequence](https://liambai.com/protein-representation/)
   
 ### deep learning for single-cell
 
