@@ -80,6 +80,7 @@
 * [CPA is a framework to learn the effects of perturbations at the single-cell level. CPA encodes and learns phenotypic drug responses across different cell types, doses, and combinations](https://github.com/theislab/cpa)
 * [GET: a foundation model of transcription across human cell types](https://www.biorxiv.org/content/10.1101/2023.09.24.559168v1)
 * [Neural optimal transport predicts perturbation responses at the single-cell level](https://www.nature.com/articles/s41592-023-01968-y)
+* [CellPLM: Pre-training of Cell Language Model Beyond Single Cells](https://www.biorxiv.org/content/10.1101/2023.10.03.560734v1)
   
 ### Large language models (LMM)  
 
