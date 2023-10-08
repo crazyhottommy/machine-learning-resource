@@ -90,7 +90,7 @@
 * [SaProt: Protein Language Modeling with Structure-aware Vocabulary](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v2)
 * [ProteinBERT: a universal deep-learning model of protein sequence and function](https://academic.oup.com/bioinformatics/article/38/8/2102/6502274)
 * [Learning meaningful representations of protein sequences](https://www.nature.com/articles/s41467-022-29443-w)
-* [Evaluating the Impact of Sequence Convolutions & Embeddings on Protein Structure Prediction](https://wandb.ai/koes-group/protein-transformer/reports/Evaluating-the-Impact-of-Sequence-Convolutions-Embeddings-on-Protein-Structure-Prediction--Vmlldzo2OTg4Nw)
+* [Evaluating the Impact of Sequence Convolutions & Embeddings on Protein Structure Prediction](https://wandb.ai/koes-group/protein-transformer/reports/Evaluating-the-Impact-of-Sequence-Convolutions-Embeddings-on-Protein-Structure-Prediction--Vmlldzo2OTg4Nw) youtube video https://www.youtube.com/watch?v=w0N-N6J05gk
 * 
 
 ### Graph Neural Nets (GNN)
