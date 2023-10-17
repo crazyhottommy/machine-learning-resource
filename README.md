@@ -74,6 +74,7 @@
   
 ### deep learning for single-cell
 
+* [awesome-deep-learning-single-cell-papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers#gan-or-diffusion-model)
 * [Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation”](https://www.biorxiv.org/content/10.1101/2023.08.30.555582v1) twitter thread to understand https://twitter.com/drklly/status/1698013780394041561
 * Single-cell gene expression prediction from DNA sequence at large contexts  https://www.biorxiv.org/content/10.1101/2023.07.26.550634v1.full
 * Transfer learning enables predictions in network biology https://pubmed.ncbi.nlm.nih.gov/37258680/
