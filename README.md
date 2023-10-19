@@ -97,6 +97,7 @@
 * [Learning meaningful representations of protein sequences](https://www.nature.com/articles/s41467-022-29443-w)
 * [Evaluating the Impact of Sequence Convolutions & Embeddings on Protein Structure Prediction](https://wandb.ai/koes-group/protein-transformer/reports/Evaluating-the-Impact-of-Sequence-Convolutions-Embeddings-on-Protein-Structure-Prediction--Vmlldzo2OTg4Nw) youtube video https://www.youtube.com/watch?v=w0N-N6J05gk
 * [Transformer protein language models are unsupervised structure learners](https://www.biorxiv.org/content/10.1101/2020.12.15.422761v1)
+* [A 5’ UTR Language Model for Decoding Untranslated Regions of mRNA and Function Predictions](https://www.biorxiv.org/content/10.1101/2023.10.11.561938v1)
 
 ### Graph Neural Nets (GNN)
 
