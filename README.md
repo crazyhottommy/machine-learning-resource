@@ -86,6 +86,7 @@
 * [GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations](https://github.com/snap-stanford/GEARS)
 * [Assessing the limits of zero-shot foundation models in single-cell biology](https://www.biorxiv.org/content/10.1101/2023.10.16.561085v1)
 * [Evaluating the Utilities of Large Language Models in Single-cell Data Analysis](https://www.biorxiv.org/content/10.1101/2023.09.08.555192v3)
+* [GENEPT: A SIMPLE BUT HARD-TO-BEAT FOUNDATION MODEL FOR GENES AND CELLS BUILT FROM CHATGPT](https://www.biorxiv.org/content/10.1101/2023.10.16.562533v1)
   
 ### Large language models (LMM)  
 
