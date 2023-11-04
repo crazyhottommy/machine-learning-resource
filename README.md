@@ -84,9 +84,11 @@
 * [Neural optimal transport predicts perturbation responses at the single-cell level](https://www.nature.com/articles/s41592-023-01968-y)
 * [CellPLM: Pre-training of Cell Language Model Beyond Single Cells](https://www.biorxiv.org/content/10.1101/2023.10.03.560734v1)
 * [GEARS: Predicting transcriptional outcomes of novel multi-gene perturbations](https://github.com/snap-stanford/GEARS)
+* [Learning single-cell perturbation responses using neural optimal transport](https://www.nature.com/articles/s41592-023-01969-x)
 * [Assessing the limits of zero-shot foundation models in single-cell biology](https://www.biorxiv.org/content/10.1101/2023.10.16.561085v1)
 * [Evaluating the Utilities of Large Language Models in Single-cell Data Analysis](https://www.biorxiv.org/content/10.1101/2023.09.08.555192v3)
 * [GENEPT: A SIMPLE BUT HARD-TO-BEAT FOUNDATION MODEL FOR GENES AND CELLS BUILT FROM CHATGPT](https://www.biorxiv.org/content/10.1101/2023.10.16.562533v1)
+
   
 ### Large language models (LMM)  
 
