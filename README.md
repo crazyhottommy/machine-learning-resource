@@ -56,6 +56,8 @@
 * [Deep learning applications in single-cell omics data analysis](https://www.biorxiv.org/content/10.1101/2021.11.26.470166v1) " Through a systematic literature review, we have found that DL has not yet revolutionized or addressed the most pressing challenges of the SC omics field. However, using DL models for single-cell omics has shown promising results (in many cases outperforming the previous state-of-the-art models) but lacking the needed biological interpretability in many cases."
 
 ### machine learning in life science
+
+* Sensitive tumor detection, accurate quantification, and cancer subtype classification using low-pass whole methylome sequencing of plasma DNA https://www.biorxiv.org/content/10.1101/2024.06.10.598204v1
 * [Uncovering expression signatures of synergistic drug responses via ensembles of explainable machine-learning models](https://www.nature.com/articles/s41551-023-01034-0)
 * [DeepAIR: A deep learning framework for effective integration of sequence and 3D structure to enable adaptive immune receptor analysis
 ](https://www.science.org/doi/10.1126/sciadv.abo5128)
