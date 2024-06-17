@@ -2,6 +2,7 @@
 
 ### courses, tools and reviews
 
+* Big data and deep learning for RNA biology https://www.nature.com/articles/s12276-024-01243-w
 * google machine learning free classes: https://developers.google.com/machine-learning
 * https://vas3k.com/blog/machine_learning/
 * statquest https://app.learney.me/maps/StatQuest
