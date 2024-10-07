@@ -57,6 +57,7 @@
 
 ### machine learning in life science
 
+* CREME: Cis-Regulatory Element Model Explanations https://github.com/p-koo/creme-nn
 * Sensitive tumor detection, accurate quantification, and cancer subtype classification using low-pass whole methylome sequencing of plasma DNA https://www.biorxiv.org/content/10.1101/2024.06.10.598204v1
 * [Uncovering expression signatures of synergistic drug responses via ensembles of explainable machine-learning models](https://www.nature.com/articles/s41551-023-01034-0)
 * [DeepAIR: A deep learning framework for effective integration of sequence and 3D structure to enable adaptive immune receptor analysis
